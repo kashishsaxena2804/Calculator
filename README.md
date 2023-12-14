@@ -81,11 +81,7 @@ npm run html-validator
 - [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
-## 👤 Author
 
-- Github: [@Lanr3waju]<https://github.com/Lanr3waju>)
-- LinkedIn: [@Abass Olanrewaju](https://www.linkedin.com/in/abass-olanrewaju-abdul-wasi-53883422a/)
-- Twitter: [@abdul-wasi-img](https://twitter.com/abdul_wasi_img)
 
 ## 🤝 Contributing
 
